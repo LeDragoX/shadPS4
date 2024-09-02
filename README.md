@@ -3,6 +3,13 @@ SPDX-FileCopyrightText: 2024 shadPS4 Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
 -->
 
+### ⚠️ DISCLAIMER: THIS BRANCH WILL NOT BE MERGED, THIS IS A CUSTOM BUILD FOR TEST PURPOSES ONLY!!!
+
+This custom build contain changes from the `main`, `bb-hacks` branches.
+
+> [!IMPORTANT]
+> As soon BB goes as "ingame" in [main](https://github.com/shadps4-emu/shadPS4), this branch will be deleted.
+
 <h1 align="center">
   <br>
   <a href="https://shadps4.net/"><img src="https://github.com/shadps4-emu/shadPS4/blob/main/.github/shadps4.png" width="220"></a>
