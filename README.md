@@ -5,7 +5,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 ### ⚠️ DISCLAIMER: THIS BRANCH WILL NOT BE MERGED, THIS IS A CUSTOM BUILD FOR TEST PURPOSES ONLY!!!
 
-This custom build contain changes from the `main`, `bb-hacks` branches.
+This custom build contain changes from the `main` branch, plus skipped some shaders beginning at 0.
 
 > [!IMPORTANT]
 > As soon BB goes as "ingame" in [main](https://github.com/shadps4-emu/shadPS4), this branch will be deleted.
